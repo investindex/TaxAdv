@@ -1,6 +1,6 @@
 # Tax-advantaged accounts
 
-#### Retirement accounts
+### Retirement accounts
 
 Most tax-advantaged retirement accounts are either an [IRA](https://www.investopedia.com/terms/i/ira.asp) (individual retirement account) or an employer-sponsored [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) account. They incentivize retirement planning by offering the opportunity to save a great deal on taxes if you set aside the money until old age. In this context, "earnings" or "investment earnings" refer to the growth in value of investments in these accounts. "Distributions" are jargon for withdrawals from the account, and "qualified distributions" are withdrawals that are penalty-free because they comply with the purposes of the account. There are two types of retirement account plans that reduce taxes in different ways, and an individual can use one or both. With a [traditional](https://www.investopedia.com/terms/t/traditionalira.asp) plan, your contributions are tax-deductible in that year and investments in the account grow without taxation. While no income tax is paid on contributions or investment earnings, withdrawals are taxed as ordinary income. With a [Roth](https://www.investopedia.com/terms/r/rothira.asp) plan, contributions are taxed like the rest of your income, but earnings in the account and [qualified distributions](https://www.investopedia.com/terms/q/qualifieddistribution.asp) are tax-free. Traditional accounts are tax-deferred, and Roth accounts are tax-exempt. The distinctions introduced so far provide four subdivisions: traditional IRA, Roth IRA, traditional 401(k), and Roth 401(k).
 
@@ -14,7 +14,7 @@ TERMINOLOGY WARNING: Many people simply say "401(k)" with the implication of a t
 
 &nbsp;
 
-#### Health savings accounts
+### Health savings accounts
 
 Properly used, HSAs have the most tax advantages of any account. Contributions are tax-deductible up to a limit, investments grow tax-free, and withdrawals for qualifying medical expenses are tax-free! The account can pay for your own medical expenses as well as those of your spouse, dependents, and [certain](https://www.irs.gov/publications/p502#en_US_2021_publink1000178869) non-dependent children. You can pay for medical expenses directly from the account, or you can wait and reimburse yourself later. The delay can be two days or 20 years, as long as you can document the payments and your HSA was open when the expenses were incurred. Documentation is not typically needed for HSA reimbursement, so it may never be used, but the IRS can request it if your tax returns are audited.
 
@@ -30,11 +30,25 @@ Not every American can contribute to an HSA every year. You're eligible to contr
 
 &nbsp;
 
-#### 529 accounts, contribution limits, and charity
+### 529 accounts
 
 [529 accounts](https://www.investopedia.com/terms/1/529plan.asp) are used to pay for the educational expenses of a specific beneficiary, although the beneficiary can be changed. Contributions to a 529 account are not tax-deductible at the federal level, but some states provide deductions under certain conditions. They are still beneficial because investments grow tax-free and appropriate withdrawals used for education are not taxed. [US Treasury savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) are [exempt from tax](https://www.thebalance.com/how-to-use-savings-bonds-to-help-pay-for-college-2085509) if rolled into a 529 account within 60 days of redemption. You need to research the investment options available to you before contributing. An IRA or HSA can offer almost as much freedom as a standard brokerage account,<sup id="fn2">[[2]](#f2)</sup> but the options for your 401(k) or 529 may be less attractive. This is partly why [rolling over](https://www.investopedia.com/terms/i/ira-rollover.asp) your 401(k) into your IRA when you leave an employer is a good idea. You can also roll over while employed if your 401(k) provider allows in-service rollovers (but many do not). You should consider carrying out a rollover at the first opportunity, because 401(k) providers [charge fees](https://www.investopedia.com/articles/personal-finance/061913/hidden-fees-401ks.asp) that will hamper your investment growth.
 
+&nbsp;
+
+### Contribution limits
+
 These drawbacks of 401(k) investing imply that once you've maxed out 401(k) employer matching, you should prioritize your IRA and potentially your HSA. Only if you have reached the limit of tax-deductible contributions to these accounts, and you want to contribute even more, should you return to your 401(k). Contribution limits for 401(k) accounts are far higher than those for IRAs, which is a major benefit for people with high income. In 2022, IRA contributions are limited to $6,000 (or $7,000 for those who are at least 50), whereas the 401(k) limit is $20,500 (or $27,000 for those who are at least 50). The 401(k) limit is only for employee contributions; the limit for the sum of employee and employer contributions is a whopping $61,000 (or $67,500 for those who are at least 50). HSA limits are $3,650 for single plans and $7,300 for family plans, with an additional $1,000 for those who are at least 55. Contributions to your 401(k), IRA, or HSA do not affect contribution limits in either of the other two types of accounts. You can contribute to both Roth and traditional accounts in the same year if you wish, but they have a joint limit. A 30-year-old who contributed $3K to their traditional IRA in 2022 has a remaining limit of $3K in their Roth IRA (and the 401(k) limit would be unaffected). IRA contributions are also limited by earned income. If someone earned a pre-tax total of $4K from their job in a given year, they could contribute no more than $4K (regardless of whether they realized capital gains, which are not earned income). Further limits are described [here](https://github.com/investindex/Taxes#tax-advantaged-accounts).
+
+&nbsp;
+
+#### Required minimum distributions (RMDs)
+
+Traditional IRAs and similar accounts have [required minimum distributions (RMDs)](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp). The government wants you to pay income tax on that tax-deferred money eventually, so in your old age they compel you to withdraw a fraction of the IRA's value that depends on your age and population-level expected lifespan. The age at which RMDs begin was 70½ until 2020, but it is now 72 and a bill [currently in Congress](https://www.wsj.com/articles/the-new-tax-playbook-for-draining-your-401-k-in-retirement-11649079814) would gradually raise it to 75 by 2033. RMDs up to $100K can be donated to charity in a tax-deductible manner if you have no need for them and want to avoid the income taxes that they would otherwise trigger. Roth IRAs do _not_ have RMDs, because taxes on that money were fully paid when you contributed to the account. Oddly, Roth 401(k) accounts do have RMDs even though no tax is owed, but these can be avoided by rolling over the account to a Roth IRA.
+
+&nbsp;
+
+#### Charity
 
 Finally, if charitable donations will be an important goal in your old age, traditional IRAs have a clear advantage over Roth IRAs. The untaxed contributions and investment earnings in your traditional IRA can be [donated tax-free](https://www.marketwatch.com/story/ira-charitable-rollover-provision-made-permanent-2015-12-25), whereas money in your Roth IRA has already been taxed and is ideally suited for personal spending. Your HSA is [poorly suited](https://www.marketwatch.com/story/what-are-the-rules-for-inheriting-an-hsa-2020-09-25) to charity as well as inheritance, so it's best used for personal spending after 65 if the amount exceeds anticipated health care spending. Your spouse can inherit your HSA with no tax paid — the funds are absorbed into their HSA — but any other personal beneficiary would have to pay tax on the full amount in the year of your death. If you donate to charity while you're alive using HSA funds, you still have to pay tax on those withdrawals. However, if the beneficiary of your HSA is a charity, there is no tax due when they receive the funds upon your death. Both traditional and Roth IRAs are better-suited to leave to children or other persons. None of these concerns should be a dominant influence on how much money you choose to spend or donate, but considering them will increase your wealth and the wealth of your beneficiaries.
 
