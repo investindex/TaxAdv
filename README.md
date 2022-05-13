@@ -42,23 +42,31 @@ These drawbacks of 401(k) investing imply that once you've maxed out 401(k) empl
 
 &nbsp;
 
-#### Required minimum distributions (RMDs)
+### Required minimum distributions (RMDs)
 
 Traditional IRAs and similar accounts have [required minimum distributions (RMDs)](https://www.investopedia.com/terms/r/requiredminimumdistribution.asp). The government wants you to pay income tax on that tax-deferred money eventually, so in your old age they compel you to withdraw a fraction of the IRA's value that depends on your age and population-level expected lifespan. The age at which RMDs begin was 70½ until 2020, but it is now 72 and a bill [currently in Congress](https://www.wsj.com/articles/the-new-tax-playbook-for-draining-your-401-k-in-retirement-11649079814) would gradually raise it to 75 by 2033. RMDs up to $100K can be donated to charity in a tax-deductible manner if you have no need for them and want to avoid the income taxes that they would otherwise trigger. Roth IRAs do _not_ have RMDs, because taxes on that money were fully paid when you contributed to the account. Oddly, Roth 401(k) accounts do have RMDs even though no tax is owed, but these can be avoided by rolling over the account to a Roth IRA.
 
 &nbsp;
 
-#### Charity
+### Charity
 
 Finally, if charitable donations will be an important goal in your old age, traditional IRAs have a clear advantage over Roth IRAs. The untaxed contributions and investment earnings in your traditional IRA can be [donated tax-free](https://www.marketwatch.com/story/ira-charitable-rollover-provision-made-permanent-2015-12-25), whereas money in your Roth IRA has already been taxed and is ideally suited for personal spending. Your HSA is [poorly suited](https://www.marketwatch.com/story/what-are-the-rules-for-inheriting-an-hsa-2020-09-25) to charity as well as inheritance, so it's best used for personal spending after 65 if the amount exceeds anticipated health care spending. Your spouse can inherit your HSA with no tax paid — the funds are absorbed into their HSA — but any other personal beneficiary would have to pay tax on the full amount in the year of your death. If you donate to charity while you're alive using HSA funds, you still have to pay tax on those withdrawals. However, if the beneficiary of your HSA is a charity, there is no tax due when they receive the funds upon your death. Both traditional and Roth IRAs are better-suited to leave to children or other persons. None of these concerns should be a dominant influence on how much money you choose to spend or donate, but considering them will increase your wealth and the wealth of your beneficiaries.
 
-There is additional, highly important information on tax-advantaged accounts in the [section on taxes](https://github.com/investindex/Taxes#tax-advantaged-accounts). For various examples of how judicious use of taxable, tax-deferred, and tax-exempt accounts during working and retirement years can enhance the longevity of your portfolio, see chapter 10 of Larry Swedroe's [book on retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def).
+&nbsp;
+
+### Later section
+
+There is additional, highly important information on tax-advantaged accounts in the [section on taxes](https://github.com/investindex/Taxes#tax-advantaged-accounts). It's deferred because the tax essentials introduced [first](https://github.com/investindex/Taxes) are a prerequisite to that info. Immediately below is a discussion of how to think about contributing to [Roth or traditional](https://github.com/investindex/Taxes#roth-or-traditional) accounts.
 
 &nbsp;
 
 &nbsp;
 
 ## Summary
+
+<!--
+For various examples of how judicious use of taxable, tax-deferred, and tax-exempt accounts during working and retirement years can enhance the longevity of your portfolio, see chapter 10 of Larry Swedroe's [book on retirement](https://libgen.rs/search.php?req=Swedroe+Grogan+Your+Complete+Guide+to+a+Successful+and+Secure+Retirement&open=0&res=25&view=simple&phrase=1&column=def).
+-->
 
 Contributions to a traditional account are tax-deductible, but you pay income tax when you withdraw. Contributions to a Roth account are _not_ tax-deductible, but you pay no tax when you withdraw. Consider exploiting the unique, under-appreciated advantages of HSAs. Max out employer matching even if you have debt, with awareness that if you change employers it is possible to lose some 401(k) matching due to your vesting schedule.
 
