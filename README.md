@@ -1,6 +1,6 @@
 # Tax-advantaged accounts
 
-In a taxable brokerage account, every time you receive a distribution or realize a gain or loss, there is a taxable event. We'll cover various kinds of tax-advantaged accounts, but they all share one feature: your trades in the account are sheltered from . On top of other benefits, capital gains and distributions are never taxed while the money is in the account, and you can adjust investments as frequently as you want with no concern for tax implications. In this context, "earnings" or "investment earnings" refer to the growth in value of investments in these accounts. Withdrawals from the account are called "distributions", and "qualified distributions" are withdrawals that are penalty-free because they comply with the purposes of the account.
+In a taxable brokerage account, every time you receive a distribution or realize a gain or loss, there is a taxable event. We'll cover various kinds of tax-advantaged accounts, but they all share one feature: your trades in the account are sheltered from tax. On top of other benefits, capital gains and distributions are never taxed while the money is in the account, and you can adjust investments as frequently as you want with no concern for tax implications. In this context, "earnings" or "investment earnings" refer to the growth in value of investments in these accounts. Withdrawals from the account are called "distributions", and "qualified distributions" are withdrawals that are penalty-free because they comply with the purposes of the account.
 
 ### Retirement accounts
 
