@@ -8,6 +8,14 @@ In this context, "earnings" or "investment earnings" refer to the growth in valu
 
 Click to move to each section:
 * [Retirement accounts](https://github.com/investindex/TaxAdv#retirement-accounts)
+* [Health savings account (HSA)](https://github.com/investindex/TaxAdv#health-savings-account-hsa)
+* [529 account](https://github.com/investindex/TaxAdv#529-account)
+* [Contribution limits](https://github.com/investindex/TaxAdv#contribution-limits)
+* [HSA rebels](https://github.com/investindex/TaxAdv#hsa-rebels)
+* [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
+* [Charity](https://github.com/investindex/TaxAdv#charity)
+* [Later section](https://github.com/investindex/TaxAdv#later-section)
+* [Summary](https://github.com/investindex/TaxAdv#summary)
 
 &nbsp;
 
@@ -43,9 +51,9 @@ Not every American can contribute to an HSA every year. You're eligible to contr
 
 &nbsp;
 
-### 529 accounts
+### 529 account
 
-[529 accounts](https://www.investopedia.com/terms/1/529plan.asp) are used to pay for the educational expenses of a specific beneficiary, although the beneficiary can be changed. Contributions to a 529 account are not tax-deductible at the federal level, but some states provide deductions under certain conditions. They are still beneficial because investments grow tax-free and appropriate withdrawals used for education are not taxed. [US Treasury savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) are [exempt from tax](https://www.thebalance.com/how-to-use-savings-bonds-to-help-pay-for-college-2085509) if rolled into a 529 account within 60 days of redemption. You need to research the investment options available to you before contributing. An IRA or HSA can offer almost as much freedom as a standard brokerage account,<sup id="fn2">[[2]](#f2)</sup> but the options for your 401(k) or 529 may be less attractive. This is partly why [rolling over](https://www.investopedia.com/terms/i/ira-rollover.asp) your 401(k) into your IRA when you leave an employer is a good idea. You can also roll over while employed if your 401(k) provider allows in-service rollovers (but many do not). You should consider carrying out a rollover at the first opportunity, because 401(k) providers [charge fees](https://www.investopedia.com/articles/personal-finance/061913/hidden-fees-401ks.asp) that will hamper your investment growth.
+A [529 account](https://www.investopedia.com/terms/1/529plan.asp) is used to pay for the educational expenses of a specific beneficiary, although the beneficiary can be changed. Contributions to a 529 account are not tax-deductible at the federal level, but some states provide deductions under certain conditions. They are still beneficial because investments grow tax-free and appropriate withdrawals used for education are not taxed. [US Treasury savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) are [exempt from tax](https://www.thebalance.com/how-to-use-savings-bonds-to-help-pay-for-college-2085509) if rolled into a 529 account within 60 days of redemption. You need to research the investment options available to you before contributing. An IRA or HSA can offer almost as much freedom as a standard brokerage account,<sup id="fn2">[[2]](#f2)</sup> but the options for your 401(k) or 529 may be less attractive. This is partly why [rolling over](https://www.investopedia.com/terms/i/ira-rollover.asp) your 401(k) into your IRA when you leave an employer is a good idea. You can also roll over while employed if your 401(k) provider allows in-service rollovers (but many do not). You should consider carrying out a rollover at the first opportunity, because 401(k) providers [charge fees](https://www.investopedia.com/articles/personal-finance/061913/hidden-fees-401ks.asp) that will hamper your investment growth.
 
 &nbsp;
 
