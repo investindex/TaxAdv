@@ -6,6 +6,13 @@ In this context, "earnings" or "investment earnings" refer to the growth in valu
 
 &nbsp;
 
+Click to move to each section:
+* [Retirement accounts](https://github.com/investindex/TaxAdv#retirement-accounts)
+
+&nbsp;
+
+&nbsp;
+
 ### Retirement accounts
 
 Most tax-advantaged retirement accounts are either an [IRA](https://www.investopedia.com/terms/i/ira.asp) (individual retirement account) or an employer-sponsored [401(k)](https://www.investopedia.com/terms/1/401kplan.asp) account. They incentivize retirement planning by offering the opportunity to save a great deal on taxes if you set aside the money until old age. There are two types of retirement account plans that reduce taxes in different ways, and an individual can use one or both. With a [traditional](https://www.investopedia.com/terms/t/traditionalira.asp) plan, your contributions are tax-deductible in that year and investments in the account grow without taxation. While no income tax is paid on contributions or investment earnings, withdrawals are taxed as ordinary income. With a [Roth](https://www.investopedia.com/terms/r/rothira.asp) plan, contributions are taxed like the rest of your income, but earnings in the account and [qualified distributions](https://www.investopedia.com/terms/q/qualifieddistribution.asp) are tax-free. Traditional accounts are tax-deferred, and Roth accounts are tax-exempt. The distinctions introduced so far provide four subdivisions: traditional IRA, Roth IRA, traditional 401(k), and Roth 401(k).
@@ -20,9 +27,9 @@ TERMINOLOGY WARNING: Many people simply say "401(k)" with the implication of a t
 
 &nbsp;
 
-### Health savings accounts
+### Health savings account (HSA)
 
-Properly used, HSAs have the most tax advantages of any account. Contributions are tax-deductible up to a limit, investments grow tax-free, and withdrawals for qualifying medical expenses are tax-free! The account can pay for your own medical expenses as well as those of your spouse, dependents, and [certain](https://www.irs.gov/publications/p502#en_US_2021_publink1000178869) non-dependent children. You can pay for medical expenses directly from the account, or you can wait and reimburse yourself later. The delay can be two days or 20 years, as long as you can document the payments and your HSA was open when the expenses were incurred. Documentation is not typically needed for HSA reimbursement — you can just reimburse yourself whenever you want. So it may never be used, but the IRS can request it if your tax returns are audited.
+Properly used, an HSA has the most tax advantages of any account. Contributions are tax-deductible up to a limit, investments grow tax-free, and withdrawals for qualifying medical expenses are tax-free! The account can pay for your own medical expenses as well as those of your spouse, dependents, and [certain](https://www.irs.gov/publications/p502#en_US_2021_publink1000178869) non-dependent children. You can pay for medical expenses directly from the account, or you can wait and reimburse yourself later. The delay can be two days or 20 years, as long as you can document the payments and your HSA was open when the expenses were incurred. Documentation is not typically needed for HSA reimbursement — you can just reimburse yourself whenever you want. So it may never be used, but the IRS can request it if your tax returns are audited.
 
 Unlike contributions to your IRA or 401(k), contributions to your HSA even [escape](https://www.cnbc.com/2019/09/18/this-triple-tax-advantaged-account-might-beat-your-401k-plan.html) FICA taxes — the federal payroll taxes that fund Social Security and Medicare — as long as you contribute through your employer’s [payroll deduction](https://www.thebalancecareers.com/payroll-deductions-1918223). For [most people](https://github.com/investindex/Taxes#the-essentials), FICA taxes amount to 7.65% of every dollar of earned income. Your employer may offer matching in your HSA because this enables them to pay you while escaping their share of FICA taxes too. HSAs do have a drawback: if you desperately need the money and withdraw it for non-medical reasons before age 65, you’ll pay a penalty of 20% — twice as high as in retirement accounts — in addition to income taxes. From a retirement perspective, you can use your HSA purely as an investment vehicle. After age 65, you can use it for medical expenses as you would have before, but the 20% penalty if you withdraw for other reasons will be gone. The withdrawals for non-medical reasons will be subject to income tax, but so would withdrawals from a traditional IRA or 401(k). Even in this situation, the HSA is superior because the contributions avoid FICA taxes on the front end, but contributions to an IRA or 401(k) do not.<sup id="fn1">[[1]](#f1)</sup> An HSA is a stealth retirement account that beats retirement accounts at their own job.
 
