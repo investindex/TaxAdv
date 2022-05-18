@@ -147,7 +147,7 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> Money in tax-advantaged accounts cannot legally be traded on [margin](https://www.investopedia.com/terms/m/margin.asp), so IRAs and HSAs are still less capable than a taxable brokerage account. A feature called limited margin is allowed, which allows you to re-use funds immediately instead of being subject to a two-day [settlement period](https://www.investopedia.com/terms/s/settlement_period.asp), as is required in a cash account. By design, limited margin does not permit use of borrowed funds. [↩](#fn3)
+<sup id="f3"> 3 </sup> Money in tax-advantaged accounts cannot legally be traded on [margin](https://www.investopedia.com/terms/m/margin.asp), so IRAs and HSAs are still less capable than a taxable brokerage account. A feature called limited margin is allowed, which allows you to re-use funds immediately instead of being subject to a two-day [settlement period](https://www.investopedia.com/terms/s/settlement_period.asp), as is required in a cash account. By design, limited margin does not permit use of borrowed funds. The differences between cash and margin accounts are discussed in the [section on practical information](https://github.com/investindex/Practical#brokerage-accounts). [↩](#fn3)
 
 &nbsp;
 
