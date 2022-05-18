@@ -143,7 +143,7 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> The only exception is _employer_ contributions to a 401(k) account (or another employer-sponsored retirement account). Employee contributions are subject to FICA taxes. Even if your employer offers a Roth 401(k), employers do not contribute to your Roth 401(k). Employer contributions are made to your traditional account regardless of which plan you contribute to. However, if [a certain bill](https://www.cnbc.com/2022/03/30/house-passes-secure-act-2point0-heres-what-it-means-for-your-retirement-.html) currently in Congress is passed, employers could be given the option of contributing to their employees' Roth 401(k) accounts. [↩](#fn2)
+<sup id="f2"> 2 </sup> The only contributions to a 401(k) account (or another employer-sponsored retirement account) that avoid FICA taxes are _employer_ contributions. Employee contributions are subject to FICA taxes. Even if your employer offers a Roth 401(k), employers do not contribute to your Roth 401(k). Employer contributions are made to your traditional account regardless of which plan you contribute to. However, if [a certain bill](https://www.cnbc.com/2022/03/30/house-passes-secure-act-2point0-heres-what-it-means-for-your-retirement-.html) currently in Congress is passed, employers could be given the option of contributing to their employees' Roth 401(k) accounts. [↩](#fn2)
 
 &nbsp;
 
