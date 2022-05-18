@@ -139,7 +139,7 @@ All sections:
 
 Footnotes:
 
-<sup id="f1"> 1 </sup> Employers owe payroll taxes, and while invisible to the employee, this is an additional cost of employing each person. Employers pay the same federal payroll taxes: 6.2% Social Security tax and 1.45% Medicare tax (so FICA taxes are actually 15.3% in total, not 7.65%). Contributing to your HSA means that both you _and_ your employer avoid paying FICA taxes on that amount. Employers also pay state unemployment taxes (SUTA) and federal unemployment taxes (FUTA), which fund unemployment benefits. There are only a few states in which employees also contribute to state unemployment benefits. Employers may also owe local taxes. [↩](#fn1)
+<sup id="f1"> 1 </sup> Employers owe payroll taxes, and while invisible to the employee, this is an additional cost of employing each person. Employers pay the same federal payroll taxes: 6.2% Social Security tax and 1.45% Medicare tax (so FICA taxes are actually 15.3% in total, not 7.65%). Contributing to your HSA means that both you _and_ your employer avoid paying FICA taxes on that amount. Employers also pay state unemployment taxes (SUTA) and federal unemployment taxes (FUTA), which fund unemployment benefits. There are only a few states in which employees also contribute to state unemployment benefits. Employers may owe local taxes as well. [↩](#fn1)
 
 &nbsp;
 
