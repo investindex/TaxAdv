@@ -9,8 +9,9 @@ In this context, "earnings" or "investment earnings" refer to the growth in valu
 Click to move to each section:
 * [Retirement accounts](https://github.com/investindex/TaxAdv#retirement-accounts)
 * [Health savings account (HSA)](https://github.com/investindex/TaxAdv#health-savings-account-hsa)
-* [529 account](https://github.com/investindex/TaxAdv#529-account)
 * [Contribution limits](https://github.com/investindex/TaxAdv#contribution-limits)
+* [Rollovers](https://github.com/investindex/TaxAdv#rollovers)
+* [529 account](https://github.com/investindex/TaxAdv#529-account)
 * [HSA rebels](https://github.com/investindex/TaxAdv#hsa-rebels)
 * [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
 * [Charity](https://github.com/investindex/TaxAdv#charity)
@@ -18,7 +19,6 @@ Click to move to each section:
 * [Summary](https://github.com/investindex/TaxAdv#summary)
 
 <!-- * [401(k) "loans"](https://github.com/investindex/TaxAdv#401k-loans) -->
-<!-- * [Rollovers](https://github.com/investindex/TaxAdv#rollovers) -->
 
 &nbsp;
 
@@ -62,7 +62,7 @@ Contributions to your 401(k), IRA, or HSA do not affect contribution limits in e
 
 If you don't have a high-deductible health plan (HDHP) for the entire year, you may not be eligible to contribute the maximum to an HSA. Let's say you change jobs in May and change your health insurance on June 15 from an HDHP (at your old job) to a non-HDHP (at your new job). HSA eligibility is determined on the first of each month, so you would be eligible for HSA contributions in January through June, the first six months of the year. This would reduce your maximum to 6/12 of whatever maximum would otherwise apply to you. You can still contribute to your HSA at any time — not just in January through June — but your maximum for that year would be cut in half.
 
-This simple _pro rata_ calculation is often how you determine whether your maximum contribution is reduced. But there is a [last month rule](https://www.hsaedge.com/2017/10/20/how-to-determine-if-you-used-the-hsa-last-month-rule/): if you're covered by an HDHP on December 1, you're eligible to contribute the maximum regardless of when that coverage began. So if you switched from a non-HDHP to an HDHP on October 1, you would be eligible to contribute the full maximum, not just the _pro rata_ 3/12 of the maximum. However, this carries a condition. In order for those contributions to be compliant, you must _remain_ eligible for an HSA for 12 months (the "testing period"). So if you switched to an HDHP on October 1 and took advantage of the last month rule by maxing out your HSA, you would need to stay with an HDHP until the following October 1. If you didn't, you would need to withdraw the overcontribution, and you would owe normal taxes on it as well as a tax penalty of 10%. The last month rule applies in the [same way](https://www.hsaedge.com/2014/03/25/hsa-last-month-rule-and-testing-period-explained/) when switching between single coverage and family coverage.
+This simple _pro rata_ calculation is often how you determine whether your maximum contribution is reduced. But there is a [last month rule](https://www.hsaedge.com/2017/10/20/how-to-determine-if-you-used-the-hsa-last-month-rule/): if you're covered by an HDHP on December 1, you're eligible to contribute the maximum regardless of when that coverage began. So if you switched from a non-HDHP to an HDHP on October 1, you would be eligible to contribute the full maximum, not just the _pro rata_ 3/12 of the maximum. However, this carries a condition. In order for those contributions to be compliant, you must _remain_ eligible for an HSA for 12 months (the "testing period"). So if you switched to an HDHP on October 1 and took advantage of the last month rule by maxing out your HSA, you would need to stay with an HDHP until the following October 1. If you didn't, you would need to withdraw the overcontribution, and you would owe normal taxes on it as well as a 10% tax penalty. The last month rule applies in the [same way](https://www.hsaedge.com/2014/03/25/hsa-last-month-rule-and-testing-period-explained/) when switching between single coverage and family coverage.
 
 <!--
 &nbsp;
@@ -72,19 +72,19 @@ This simple _pro rata_ calculation is often how you determine whether your maxim
 "Loans" haahahaha
 -->
 
-<!--
 &nbsp;
 
 ### Rollovers
 
-A rollover is a transfer of money (or assets) between two tax-advantaged accounts. The most common rollovers are between an IRA and an employer-sponsored retirement account like a 401(k) account, or between two IRAs.
+A [rollover](https://www.investopedia.com/terms/i/ira-rollover.asp) is a transfer of money (or assets) between two tax-advantaged accounts. The most common rollovers are between an IRA and an employer-sponsored retirement account like a 401(k) account, or between two IRAs.
 
 When you leave an employer, it's generally better to roll over the money in your employer plan to an IRA than to leave it in your old employer's plan or to roll it over to your new employer's plan. An IRA gives you much broader options for investments, has no account-based fees, and lets you choose your broker. There are a few potential benefits to choosing your employer's plan: it may have better [creditor protection](https://www.investopedia.com/articles/personal-finance/040716/which-retirement-funds-are-protected-creditors.asp) than an IRA (depending on your state); it permits you to take out ["loans"](https://www.investopedia.com/articles/retirement/08/borrow-from-401k-loan.asp) from the account; and, in rare cases, it may grant you (easier) access to investments that wouldn't be available in an IRA. For nearly everyone, the benefits of an IRA greatly outweigh the potential benefits of an employer-sponsored account.
 
-Money can be rolled over by performing a "direct rollover" or an "indirect rollover". With an indirect rollover, you receive the money yourself and must deposit it in the new account within 60 days to avoid tax implications. Unfortunately, 20% of the amount is withheld for taxes, and you have to make up the 20% out of your own savings until tax day (or face taxes and potential penalties). On top of this, you can perform only one indirect rollover per year. The complexity and potential for error is why I don't recommend performing indirect rollovers. Instead, keep it simple and do a direct rollover. Open an account with the broker that you'd prefer as your new IRA custodian, such as Charles Schwab or Fidelity. Ask their customer service what info you'll need to transfer the money. Call the current custodian of your employer plan, and tell them you'd like to perform a direct rollover to an IRA. Have your new account number ready. Your current custodian will transfer the money directly to the new custodian.
+When performing a rollover from an employer plan to an IRA, you'll generally want to avoid any tax implications. This means rolling over a traditional 401(k) account to a traditional IRA, or a Roth 401(k) account to a Roth IRA. You can also open a rollover IRA, which would make it easier to roll that money into a new employer's plan. If you don't plan to do so, you can roll over the money to a traditional or Roth IRA, which may already have money in it.
 
-When performing a rollover from an employer plan like a 401(k) to an IRA, you'll generally want to avoid any tax implications. This means rolling over a traditional 401(k) account to a traditional IRA, and a Roth 401(k) account to a Roth IRA.
--->
+Money can be rolled over by performing a "direct rollover" or an "indirect rollover". A direct rollover is far simpler and carries very little potential for error. The entire process is the following. If you don't already have an IRA with the appropriate plan — traditional or Roth — open an IRA with the broker that you'd like as your new IRA custodian, such as Charles Schwab or Fidelity. Ask their customer service what info you'll need to transfer the money. Call the current custodian of your employer plan, and tell them you'd like to perform a direct rollover to an IRA. Your current custodian will transfer the money directly to the new custodian. In contrast, when you perform an indirect rollover, you receive the money yourself and must deposit it in the new account within 60 days to avoid tax implications. Unfortunately, 20% of the amount is withheld in case federal taxes are triggered, and you have to make up the 20% out of your own savings until your federal refund arrives (or face taxes and potential penalties). On top of this, you can perform only one indirect rollover in any rolling 12-month period. The complexity and potential for error is why I don't recommend indirect rollovers. 
+
+You can also transfer money between IRAs if you'd like to change custodians or consolidate your accounts. The process is very similar. Transferring money from a traditional IRA to a Roth IRA is very different because it's a taxable event. When you perform a [Roth conversion](https://www.investopedia.com/terms/i/iraconversion.asp), the amount transferred from a traditional account to a Roth account is added to your taxable income. The appropriate circumstances for a Roth conversion are discussed in the "[Roth or traditional?](https://github.com/investindex/Taxes#roth-or-traditional)" section.
 
 &nbsp;
 
