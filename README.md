@@ -12,6 +12,7 @@ Click to move to each section:
 * [529 account](https://github.com/investindex/TaxAdv#529-account)
 * [Contribution limits](https://github.com/investindex/TaxAdv#contribution-limits)
 <!--
+* [401(k) "loans"](https://github.com/investindex/TaxAdv#401k-loans)
 * [Rollovers](https://github.com/investindex/TaxAdv#rollovers)
 -->
 * [HSA rebels](https://github.com/investindex/TaxAdv#hsa-rebels)
@@ -64,11 +65,13 @@ If you don't have a high-deductible health plan (HDHP) for the entire year, you 
 
 This simple _pro rata_ calculation is often how you determine whether your maximum contribution is reduced. But there is a [last month rule](https://www.hsaedge.com/2017/10/20/how-to-determine-if-you-used-the-hsa-last-month-rule/): if you're covered by an HDHP on December 1, you're eligible to contribute the maximum regardless of when that coverage began. So if you switched from a non-HDHP to an HDHP on October 1, you would be eligible to contribute the full maximum, not just the _pro rata_ 3/12 of the maximum. However, this carries a condition. In order for those contributions to be compliant, you must _remain_ eligible for an HSA for 12 months (the "testing period"). So if you switched to an HDHP on October 1 and took advantage of the last month rule by maxing out your HSA, you would need to stay with an HDHP until the following October 1. If you didn't, you would need to withdraw the overcontribution, and you would owe normal taxes on it as well as a tax penalty of 10%. The last month rule applies in the [same way](https://www.hsaedge.com/2014/03/25/hsa-last-month-rule-and-testing-period-explained/) when switching between single coverage and family coverage.
 
+<!--
 &nbsp;
 
 ### 401(k) "loans"
 
 "Loans" haahahaha
+-->
 
 <!--
 &nbsp;
@@ -77,9 +80,11 @@ This simple _pro rata_ calculation is often how you determine whether your maxim
 
 A rollover is a transfer of money (or assets) between two tax-advantaged accounts. The most common rollovers are between an IRA and an employer-sponsored retirement account like a 401(k) account, or between two IRAs.
 
-When you leave an employer, it's generally better to roll over the money in your employer plan to an IRA than to leave it in your old employer's plan or to roll it over to your new employer's plan. Using an IRA gives you much broader options for investments, means you can avoid account-based fees, and lets you choose your broker. There are a few potential benefits to choosing your employer's plan: it may have better [creditor protection](https://www.investopedia.com/articles/personal-finance/040716/which-retirement-funds-are-protected-creditors.asp) than an IRA (depending on your state); it permits you to take out ["loans"](https://www.investopedia.com/articles/retirement/08/borrow-from-401k-loan.asp) from the account; and, in rare cases, it may grant you (easier) access to investments that wouldn't be available in an IRA. For nearly everyone, the benefits of an IRA greatly outweigh the potential benefits of an employer-sponsored account.
+When you leave an employer, it's generally better to roll over the money in your employer plan to an IRA than to leave it in your old employer's plan or to roll it over to your new employer's plan. An IRA gives you much broader options for investments, has no account-based fees, and lets you choose your broker. There are a few potential benefits to choosing your employer's plan: it may have better [creditor protection](https://www.investopedia.com/articles/personal-finance/040716/which-retirement-funds-are-protected-creditors.asp) than an IRA (depending on your state); it permits you to take out ["loans"](https://www.investopedia.com/articles/retirement/08/borrow-from-401k-loan.asp) from the account; and, in rare cases, it may grant you (easier) access to investments that wouldn't be available in an IRA. For nearly everyone, the benefits of an IRA greatly outweigh the potential benefits of an employer-sponsored account.
 
-When performing a rollover from an employer plan like a 401(k) to an IRA, you'll generally want to avoid any tax implications. This means rolling over a traditional 401(k) account to a traditional IRA, and a Roth 401(k) account to a Roth IRA. 
+Money can be rolled over by performing a "direct rollover" or an "indirect rollover". With an indirect rollover, you receive the money yourself and must deposit it in the new account within 60 days to avoid tax implications. Unfortunately, 20% of the amount is withheld for taxes, and you have to make up the 20% out of your own savings until tax day (or face taxes and potential penalties). On top of this, you can perform only one indirect rollover per year. The complexity and potential for error is why I don't recommend performing indirect rollovers. Instead, keep it simple and do a direct rollover. Open an account with the broker that you'd prefer as your new IRA custodian, such as Charles Schwab or Fidelity. Ask their customer service what info you'll need to transfer the money. Call the current custodian of your employer plan, and tell them you'd like to perform a direct rollover to an IRA. Have your new account number ready. Your current custodian will transfer the money directly to the new custodian.
+
+When performing a rollover from an employer plan like a 401(k) to an IRA, you'll generally want to avoid any tax implications. This means rolling over a traditional 401(k) account to a traditional IRA, and a Roth 401(k) account to a Roth IRA.
 -->
 
 &nbsp;
