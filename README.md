@@ -11,13 +11,14 @@ Click to move to each section:
 * [Health savings account (HSA)](https://github.com/investindex/TaxAdv#health-savings-account-hsa)
 * [529 account](https://github.com/investindex/TaxAdv#529-account)
 * [Contribution limits](https://github.com/investindex/TaxAdv#contribution-limits)
-<!-- * [401(k) "loans"](https://github.com/investindex/TaxAdv#401k-loans) -->
-<!-- * [Rollovers](https://github.com/investindex/TaxAdv#rollovers) -->
 * [HSA rebels](https://github.com/investindex/TaxAdv#hsa-rebels)
 * [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
 * [Charity](https://github.com/investindex/TaxAdv#charity)
 * [Later section](https://github.com/investindex/TaxAdv#later-section)
 * [Summary](https://github.com/investindex/TaxAdv#summary)
+
+<!-- * [401(k) "loans"](https://github.com/investindex/TaxAdv#401k-loans) -->
+<!-- * [Rollovers](https://github.com/investindex/TaxAdv#rollovers) -->
 
 &nbsp;
 
