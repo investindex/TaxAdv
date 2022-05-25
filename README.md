@@ -11,6 +11,9 @@ Click to move to each section:
 * [Health savings account (HSA)](https://github.com/investindex/TaxAdv#health-savings-account-hsa)
 * [529 account](https://github.com/investindex/TaxAdv#529-account)
 * [Contribution limits](https://github.com/investindex/TaxAdv#contribution-limits)
+<!--
+* [Rollovers](https://github.com/investindex/TaxAdv#rollovers)
+-->
 * [HSA rebels](https://github.com/investindex/TaxAdv#hsa-rebels)
 * [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
 * [Charity](https://github.com/investindex/TaxAdv#charity)
@@ -51,12 +54,6 @@ Not every American can contribute to an HSA every year. You're eligible to contr
 
 &nbsp;
 
-### 529 account
-
-A [529 account](https://www.investopedia.com/terms/1/529plan.asp) is used to pay for the educational expenses of a specific beneficiary, although the beneficiary can be changed. Contributions to a 529 account are not tax-deductible at the federal level, but some states provide deductions under certain conditions. Still, investments grow tax-free and qualified distributions used for education are not taxed. [US Treasury savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) are [exempt from tax](https://www.thebalance.com/how-to-use-savings-bonds-to-help-pay-for-college-2085509) if rolled into a 529 account within 60 days of redemption. You need to research the investment options available to you before contributing. An IRA or HSA can offer almost as much freedom as a standard brokerage account,<sup id="fn3">[[3]](#f3)</sup> but the options for your 401(k) or 529 may be less attractive. This is partly why [rolling over](https://www.investopedia.com/terms/i/ira-rollover.asp) your 401(k) into your IRA when you leave an employer is a good idea. You can also roll over while employed if your 401(k) provider allows in-service rollovers (but many do not). You should consider carrying out a rollover at the first opportunity, because 401(k) providers [charge fees](https://www.investopedia.com/articles/personal-finance/061913/hidden-fees-401ks.asp) that will hamper your investment growth.
-
-&nbsp;
-
 ### Contribution limits
 
 These drawbacks of 401(k) investing imply that once you've maxed out 401(k) employer matching, you should prioritize your IRA and potentially your HSA. Only if you plan to reach the contribution limits for these accounts, and you plan to make even more tax-advantaged contributions, should you return to your 401(k). Contribution limits for 401(k) accounts are far higher than those for IRAs, which is a major benefit for people with high income. In 2022, IRA contributions are limited to $6,000 (or $7,000 for those who are at least 50), whereas the 401(k) limit is $20,500 (or $27,000 for those who are at least 50). The 401(k) limit is only for employee contributions; the limit for the sum of employee and employer contributions is a whopping $61,000 (or $67,500 for those who are at least 50). HSA limits are $3,650 for single plans and $7,300 for family plans, with an additional $1,000 for those who are at least 55. There is no separate employer cap for HSA contributions: if your employer contributes, the total allowed contribution is the same.
@@ -66,6 +63,30 @@ Contributions to your 401(k), IRA, or HSA do not affect contribution limits in e
 If you don't have a high-deductible health plan (HDHP) for the entire year, you may not be eligible to contribute the maximum to an HSA. Let's say you change jobs in May and change your health insurance on June 15 from an HDHP (at your old job) to a non-HDHP (at your new job). HSA eligibility is determined on the first of each month, so you would be eligible for HSA contributions in January through June, the first six months of the year. This would reduce your maximum to 6/12 of whatever maximum would otherwise apply to you. You can still contribute to your HSA at any time — not just in January through June — but your maximum for that year would be cut in half.
 
 This simple _pro rata_ calculation is often how you determine whether your maximum contribution is reduced. But there is a [last month rule](https://www.hsaedge.com/2017/10/20/how-to-determine-if-you-used-the-hsa-last-month-rule/): if you're covered by an HDHP on December 1, you're eligible to contribute the maximum regardless of when that coverage began. So if you switched from a non-HDHP to an HDHP on October 1, you would be eligible to contribute the full maximum, not just the _pro rata_ 3/12 of the maximum. However, this carries a condition. In order for those contributions to be compliant, you must _remain_ eligible for an HSA for 12 months (the "testing period"). So if you switched to an HDHP on October 1 and took advantage of the last month rule by maxing out your HSA, you would need to stay with an HDHP until the following October 1. If you didn't, you would need to withdraw the overcontribution, and you would owe normal taxes on it as well as a tax penalty of 10%. The last month rule applies in the [same way](https://www.hsaedge.com/2014/03/25/hsa-last-month-rule-and-testing-period-explained/) when switching between single coverage and family coverage.
+
+&nbsp;
+
+### 401(k) "loans"
+
+"Loans" haahahaha
+
+<!--
+&nbsp;
+
+### Rollovers
+
+A rollover is a transfer of money (or assets) between two tax-advantaged accounts. The most common rollovers are between an IRA and an employer-sponsored retirement account like a 401(k) account, or between two IRAs.
+
+When you leave an employer, it's generally better to roll over the money in your employer plan to an IRA than to leave it in your old employer's plan or to roll it over to your new employer's plan. Using an IRA gives you much broader options for investments, means you can avoid account-based fees, and lets you choose your broker. There are a few potential benefits to choosing your employer's plan: it may have better [creditor protection](https://www.investopedia.com/articles/personal-finance/040716/which-retirement-funds-are-protected-creditors.asp) than an IRA (depending on your state); it permits you to take out ["loans"](https://www.investopedia.com/articles/retirement/08/borrow-from-401k-loan.asp) from the account; and, in rare cases, it may grant you (easier) access to investments that wouldn't be available in an IRA. For nearly everyone, the benefits of an IRA greatly outweigh the potential benefits of an employer-sponsored account.
+
+When performing a rollover from an employer plan like a 401(k) to an IRA, you'll generally want to avoid any tax implications. This means rolling over a traditional 401(k) account to a traditional IRA, and a Roth 401(k) account to a Roth IRA. 
+-->
+
+&nbsp;
+
+### 529 account
+
+A [529 account](https://www.investopedia.com/terms/1/529plan.asp) is used to pay for the educational expenses of a specific beneficiary, although the beneficiary can be changed. Contributions to a 529 account are not tax-deductible at the federal level, but some states provide deductions under certain conditions. Still, investments grow tax-free and qualified distributions used for education are not taxed. [US Treasury savings bonds](https://github.com/investindex/Risk#us-treasury-savings-bonds) are [exempt from tax](https://www.thebalance.com/how-to-use-savings-bonds-to-help-pay-for-college-2085509) if rolled into a 529 account within 60 days of redemption. You need to research the investment options available to you before contributing. An IRA or HSA can offer almost as much freedom as a standard brokerage account,<sup id="fn3">[[3]](#f3)</sup> but the options for your 401(k) or 529 may be less attractive. This is partly why [rolling over](https://www.investopedia.com/terms/i/ira-rollover.asp) your 401(k) into your IRA when you leave an employer is a good idea. You can also roll over while employed if your 401(k) provider allows in-service rollovers (but many do not). You should consider carrying out a rollover at the first opportunity, because 401(k) providers [charge fees](https://www.investopedia.com/articles/personal-finance/061913/hidden-fees-401ks.asp) that will hamper your investment growth.
 
 &nbsp;
 
