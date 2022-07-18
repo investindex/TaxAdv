@@ -114,7 +114,7 @@ The deadline for the first RMD is Apr 1 in the year _after_ you turn 72. For the
 
 RMDs up to $100K can be donated to charity in a tax-deductible manner if you already want to donate the amount, and would like to avoid the income taxes that they would otherwise trigger. Roth IRAs do _not_ have RMDs, because taxes on that money were fully paid when you contributed to the account. Oddly, Roth 401(k) accounts do have RMDs even though no tax is owed, but these can be avoided by rolling over the account to a Roth IRA. If you've reached age 72 and you're still working, you don't need to take RMDs from your employer's retirement plan until Apr 1 of the year after you retire.
 
-Most retired people don't regard RMDs as an unnecessary tax burden. They need to withdraw money anyway! So withdrawing at least the RMD amount is uncomplicated for the average person who's living off Social Security and their modest IRA.
+Most retired people don't regard RMDs as an unnecessary tax burden. They need to withdraw money anyway! So withdrawing at least the amount dictated by the RMD is uncomplicated for the average person who's living off Social Security, their modest IRA, and perhaps a pension.
 
 &nbsp;
 
