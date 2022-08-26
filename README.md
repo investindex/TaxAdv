@@ -136,7 +136,7 @@ If charitable donations will be an important goal in your old age, traditional I
 
 ### Later section
 
-There is additional, highly important information on tax-advantaged accounts in the [section on taxes](https://github.com/investindex/Taxes#tax-advantaged-accounts). It's deferred because the tax essentials introduced [first](https://github.com/investindex/Taxes) in that section are a prerequisite. Immediately below that is a discussion of how to think about contributing to [Roth or traditional](https://github.com/investindex/Taxes#roth-or-traditional) accounts.
+There is additional, highly important information on tax-advantaged accounts in the [section on taxes](https://github.com/investindex/Taxes#tax-advantaged-accounts). It's deferred because the tax essentials introduced [first](https://github.com/investindex/Taxes) in that section are a prerequisite. Immediately below that is a discussion of how to think about contributing to [Roth or traditional](https://github.com/investindex/Taxes#roth-or-traditional) accounts. Another subsection on [tax-efficient investing](https://github.com/investindex/Taxes#tax-efficient-investing) emphasizes how much it helps your returns to invest in tax-advantaged accounts, and how important it is to contribute as much as possible as early in life as possible.
 
 &nbsp;
 
