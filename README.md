@@ -15,7 +15,7 @@ Click to move to each section:
 * [HSA rebels](https://github.com/investindex/TaxAdv#hsa-rebels)
 * [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
 * [Charity](https://github.com/investindex/TaxAdv#charity)
-* [Later section](https://github.com/investindex/TaxAdv#later-section)
+* [Later sections](https://github.com/investindex/TaxAdv#later-sections)
 * [Summary](https://github.com/investindex/TaxAdv#summary)
 
 <!-- * [401(k) "loans"](https://github.com/investindex/TaxAdv#401k-loans) -->
