@@ -100,6 +100,8 @@ Money can be rolled over by performing a "direct rollover" or an "indirect rollo
 
 You can also transfer money between IRAs if you'd like to change custodians or consolidate your accounts. The process is very similar. This would involve transferring between two traditional IRAs or two Roth IRAs. Transferring money from a traditional IRA to a Roth IRA is a distinct process, because it's a taxable event. When you perform a [Roth conversion](https://www.investopedia.com/terms/i/iraconversion.asp), the amount transferred from a traditional account to a Roth account is added to your taxable income. The appropriate circumstances for a Roth conversion are discussed in the "[Roth or traditional?](https://github.com/investindex/Taxes#roth-or-traditional)" section. It is [not possible](https://www.irs.gov/pub/irs-tege/rollover_chart.pdf) to transfer money from a Roth account to a traditional account.
 
+We'll cover the motivations for transferring money between HSAs in a [later section](https://github.com/investindex/Fund/blob/main/README.md#hsa-investing).
+
 &nbsp;
 
 ### 529 account
