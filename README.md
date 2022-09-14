@@ -124,7 +124,7 @@ The deadline for the first RMD is Apr 1 in the year _after_ you turn 72. For the
 
 RMDs up to $100K can be donated to charity in a tax-deductible manner if you already want to donate the amount, and would like to avoid the income taxes that they would otherwise trigger. Roth IRAs do _not_ have RMDs, because taxes on that money were fully paid when you contributed to the account. Oddly, Roth 401(k) accounts do have RMDs even though no tax is owed, but these can be avoided by rolling over the account to a Roth IRA. If you've reached age 72 and you're still working, you don't need to take RMDs from your employer's retirement plan until Apr 1 of the year after you retire.
 
-Most retired people don't regard RMDs as an unnecessary tax burden. They need to withdraw money anyway! So withdrawing at least the amount dictated by the RMD is uncomplicated for the average person who's living off Social Security, their modest IRA, and perhaps a pension.
+HSAs have another subtle advantage over traditional IRAs: they don't have RMDs. But most retired people don't regard RMDs as an unnecessary tax burden. They need to withdraw money anyway! So withdrawing at least the amount dictated by the RMD is uncomplicated for the average person who's living off Social Security, their modest IRA, and perhaps a pension.
 
 &nbsp;
 
@@ -156,7 +156,7 @@ The benefits of HSAs are:
 * Tax-deductible contributions, tax-free investment, and tax-free qualified distributions.
 * The ability to spend on health care from your checking account (while getting credit card rewards if you use a credit card), and reimburse yourself from the HSA in the future. With enough reimbursible expenses incurred over time, your HSA becomes a tax-free investment account that you can [withdraw from if needed](https://www.hsaedge.com/2012/06/13/using-your-hsa-as-an-atm/) at any time, penalty- and tax-free.
 * HSA contributions through payroll deduction avoid income taxes _and_ FICA taxes (as well as state payroll taxes, if any). Contributions to traditional IRAs and employee contributions to traditional 401(k) accounts avoid only income tax. See [this footnote](https://github.com/investindex/TaxAdv#f2) on employer contributions to 401(k) accounts.
-* The ability to withdraw penalty-free for non-medical reasons after age 65 (like a traditional IRA), but having still avoided FICA taxes on the front end. Investing in an HSA is strictly better than doing so in a traditional IRA unless (a) you withdraw the money prematurely, (b) you want to donate the money before death, (c) you plan to leave the money to a non-spousal person upon death, or (d) you're a [CA or NJ](https://github.com/investindex/TaxAdv#hsa-rebels) taxpayer.
+* The ability to withdraw penalty-free for non-medical reasons after age 65 (like a traditional IRA), but having still avoided FICA taxes on the front end and with no RMDs. Investing in an HSA is strictly better than doing so in a traditional IRA unless (a) you withdraw the money prematurely, (b) you want to donate the money before death, (c) you plan to leave the money to a non-spousal person upon death, or (d) you're a [CA or NJ](https://github.com/investindex/TaxAdv#hsa-rebels) taxpayer.
 * Qualified distributions include medical expenses for your spouse and dependents. During old age, qualified distributions include paying for long-term care insurance premiums and most Medicare premiums.
 
 &nbsp;
