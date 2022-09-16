@@ -17,8 +17,7 @@ Click to move to each section:
 * [Charity](https://github.com/investindex/TaxAdv#charity)
 * [Later sections](https://github.com/investindex/TaxAdv#later-sections)
 * [Summary](https://github.com/investindex/TaxAdv#summary)
-
-<!-- * [401(k) "loans"](https://github.com/investindex/TaxAdv#401k-loans) -->
+* [401(k) "loan" footnote](https://github.com/investindex/TaxAdv#f3)
 
 &nbsp;
 
@@ -78,21 +77,13 @@ If you don't have a high-deductible health plan (HDHP) for the entire year, you 
 
 This simple _pro rata_ calculation is often how you determine whether your maximum contribution is reduced. But there is a [last month rule](https://www.hsaedge.com/2017/10/20/how-to-determine-if-you-used-the-hsa-last-month-rule/): if you're covered by an HDHP on December 1, you're eligible to contribute the maximum regardless of when that coverage began. So if you switched from a non-HDHP to an HDHP on October 1, you would be eligible to contribute the full maximum, not just the _pro rata_ 3/12 of the maximum. However, this carries a condition. In order for those contributions to be compliant, you must _remain_ eligible for an HSA for 12 months (the "testing period"). So if you switched to an HDHP on October 1 and took advantage of the last month rule by maxing out your HSA, you would need to stay with an HDHP until the following October 1. If you didn't, you would need to withdraw the overcontribution, and you would owe income taxes as well as a 10% tax penalty. The last month rule applies in the [same way](https://www.hsaedge.com/2014/03/25/hsa-last-month-rule-and-testing-period-explained/) when switching between single coverage and family coverage.
 
-<!--
-&nbsp;
-
-### 401(k) "loans"
-
-"Loans" haahahaha
--->
-
 &nbsp;
 
 ### Rollovers
 
 A [rollover](https://www.investopedia.com/terms/i/ira-rollover.asp) is a transfer of money (or assets) between two tax-advantaged accounts. The most common rollovers are between an IRA and an employer-sponsored retirement account like a 401(k) account, or between two IRAs.
 
-When you leave an employer, it's generally better to roll over the money in your employer plan to an IRA than to remain in your old employer's plan or roll it over to your new employer's plan. An IRA gives you much broader options for investments, has no account-based fees, and lets you choose your custodian (usually a brokerage firm like Fidelity). There are a few potential benefits to choosing your employer's plan instead: it may have better [creditor protection](https://www.investopedia.com/articles/personal-finance/040716/which-retirement-funds-are-protected-creditors.asp) than an IRA (depending on your state) in the event of bankruptcy; it permits you to take out "loans" from the account, as discussed in this footnote;<sup id="fn3">[[3]](#f3)</sup> and, in rare cases, it may grant you easier access to investments that wouldn't be available in an IRA (but usually the investment options are worse). For nearly everyone, the benefits of an IRA greatly outweigh the potential benefits of an employer-sponsored account.
+When you leave an employer, it's generally better to roll over the money in your employer plan to an IRA than to remain in your old employer's plan or roll it over to your new employer's plan. An IRA gives you much broader options for investments, has no account-based fees, and lets you choose your custodian (usually a brokerage firm like Fidelity). There are a few potential benefits to choosing your employer's plan instead: it may have better [creditor protection](https://www.investopedia.com/articles/personal-finance/040716/which-retirement-funds-are-protected-creditors.asp) than an IRA (depending on your state) in the event of bankruptcy; it permits you to take out ["loans"](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) from the account, as discussed in this footnote;<sup id="fn3">[[3]](#f3)</sup> and, in rare cases, it may grant you easier access to investments that wouldn't be available in an IRA (but usually the investment options are worse). For nearly everyone, the benefits of an IRA greatly outweigh the potential benefits of an employer-sponsored account.
 
 When performing a rollover from an employer plan to an IRA, you'll generally want to avoid tax implications. To avoid a taxable event, you can roll over a traditional 401(k) account to a traditional IRA, or a Roth 401(k) account to a Roth IRA. You can also open a rollover IRA, which is identical to a traditional IRA except that it facilitates a rollover into a new employer's plan. The paragraph above described why this is not ideal for most people. If you plan to keep the money in your own IRA, you can roll it over to a traditional IRA instead. Your traditional IRA may already have money in it if you've made prior contributions. Rolling money into an IRA has no effect on the account's contribution limit.
 
@@ -200,11 +191,11 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> Work retirement plans are not completely inflexible with regard to accessing funds before age 59½. You’re legally permitted to take out a [“loan”](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) from your retirement account. You then pay the loan over (usually) no more than five years. Of course, this isn’t actually a loan: a real loan requires a lender and a borrower that are different parties, generally involves a credit check, and carries legal obligations of repayment. A “loan” from your 401(k) means you’re withdrawing your own money from the account under conditions that you must repay the principal amount plus interest. But as Michael Kitces attested in [this interview](https://www.youtube.com/watch?v=L7n6qyXnqYU&t=254s), some people are so confused about the use of the term “loan” that they think they can effectively invest in a high-yielding bond by taking out a 401(k) loan.
+<sup id="f3"> 3 </sup> Work retirement plans are not completely inflexible with regard to accessing funds before age 59½. You’re legally permitted to take out a [“loan”](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) from your retirement account. You borrow your own money from the account with the expectation that you'll repay the principal amount plus interest. You then pay the loan over (usually) no more than five years. Of course, this isn’t actually a loan: a real loan requires a lender and a borrower that are different parties, generally involves a credit check, and carries legal obligations of repayment. But as Michael Kitces attested in [this interview](https://www.youtube.com/watch?v=L7n6qyXnqYU&t=254s), some people are so confused about the use of the term “loan” that they think they can effectively invest in a high-yielding bond by taking out a 401(k) loan.
 
-What are the benefits and drawbacks of using a retirement plan “loan”? Most of this discussion assumes we’re referring to a traditional 401(k), but one important distinction is noted between loans from traditional and Roth accounts. You can’t take these loans from an IRA. (Badly ordered paragraph)
+What are the benefits and drawbacks of using a retirement plan “loan”?
 
-You can withdraw up to 50% of your vested account balance. However, if 50% of the account balance is less than $10K, you can borrow as much as $10K (or your entire balance, if less than $10K). The amount can’t exceed $50K regardless of your account balance. Check with your plan to see if they have further restrictions. Your plan administrator is not required to provide loans at all, as long as their policy is consistent across all plan participants. Loans for the purchase of a primary residence can be paid back over more than five years. The maximum allowed time isn’t dictated by law so, again, ask your plan provider for details.
+You can withdraw up to 50% of your vested account balance. However, if 50% of the account balance is less than $10K, you can borrow as much as $10K (or your entire balance, if less than $10K). The amount can’t exceed $50K regardless of your account balance. Check with your plan to see if they have further restrictions. Your plan administrator is not required to provide loans at all, as long as their policy is consistent across all plan participants. Loans for the purchase of a primary residence can be paid back over more than five years. The maximum allowed time isn’t dictated by law so, again, ask your plan provider for details. You can’t take these loans from an IRA.
 
 Loan repayments don’t affect the account’s contribution limit. To some people, that sounds like loans are a smart way to increase the effective contribution limit and move more money into a tax-advantaged account. But the opposite is true. The interest contributed to the account is not tax-deductible, but you still have to pay tax on it when you withdraw. Every dollar of interest paid on a 401(k) loan is a dollar volunteered for double taxation.
 
@@ -214,7 +205,7 @@ I think most people who take 401(k) loans don’t appreciate this drawback. Nota
 
 If the loan isn’t paid back in full, there is no default that harms your credit score. The outstanding loan balance is deemed a distribution from your account. So you don’t have to pay it back, but you will owe extra taxes if you don’t. If you intend not to pay it back because you need the money and can’t repay it, you can just withdraw from the account without bothering to take a loan.
 
-If you leave your employer, the loan has to be paid back on a potentially accelerated schedule. Repayment is due by the tax day for the tax year in which employment severance occurs. So if we leave our job in 2024, the full loan balance is due by tax day in 2025 (roughly April 15). This presents an obvious problem: people who lose their jobs are generally the least capable of quickly repaying a loan. Even  
+If you leave your employer, the loan has to be paid back on a potentially accelerated schedule. Repayment is due by the tax day for the tax year in which employment severance occurs. So if we leave our job in 2024, the full loan balance is due by tax day in 2025 (roughly April 15). This presents an obvious problem: people who lose their jobs are generally the least capable of quickly repaying a loan. And if they accept that they can't repay it, they'll have an extra large tax bill waiting for them.
 
 How do 401(k) “loans” compare to conventional loans?
 
