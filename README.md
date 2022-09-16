@@ -191,7 +191,7 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> #### 401(k) "loans"
+<sup id="f3"> 3 </sup> <b>401(k) "loans"</b>
 
 Work retirement plans are not completely inflexible with regard to accessing funds before age 59½. You’re legally permitted to take out a [“loan”](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) from your retirement account. You borrow your own money from the account with the expectation that you'll repay the principal amount plus interest. You then pay the loan over (usually) no more than five years. Of course, this isn’t actually a loan: a real loan requires a lender and a borrower that are different parties, generally involves a credit check, and carries legal obligations of repayment. But as Michael Kitces attested in [this interview](https://www.youtube.com/watch?v=L7n6qyXnqYU&t=254s), some people are so confused about the use of the term “loan” that they think they can effectively invest in a high-yielding bond by taking out a 401(k) loan.
 
