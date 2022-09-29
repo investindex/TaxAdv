@@ -17,7 +17,7 @@ Click to move to each section:
 * [Charity](https://github.com/investindex/TaxAdv#charity)
 * [Later sections](https://github.com/investindex/TaxAdv#later-sections)
 * [Summary](https://github.com/investindex/TaxAdv#summary)
-* [401(k) "loan" footnote](https://github.com/investindex/TaxAdv#f3)
+* [Footnote: Hardship withdrawals and 401(k) "loans"](https://github.com/investindex/TaxAdv#f3)
 
 &nbsp;
 
@@ -191,9 +191,11 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f3"> 3 </sup> <b>401(k) "loans"</b>
+<sup id="f3"> 3 </sup> <b>Hardship withdrawals and 401(k) "loans"</b>
 
-Work retirement plans are not completely inflexible with regard to accessing funds before age 59½. You’re legally permitted to take out a [“loan”](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) from your retirement account. You borrow your own money from the account with the expectation that you'll repay the principal amount plus interest. You then pay the loan over (usually) no more than five years. Of course, this isn’t actually a loan: a real loan requires a lender and a borrower that are different parties, generally involves a credit check, and carries legal obligations of repayment. But as Michael Kitces attested in [this interview](https://www.youtube.com/watch?v=L7n6qyXnqYU&t=254s), some people are so confused about the use of the term “loan” that they think they can effectively invest in a high-yielding bond by taking out a 401(k) loan.
+Retirement plans are not completely inflexible with regard to accessing funds before age 59½. IRAs and work retirement plans allow [hardship withdrawals](https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-hardship-distributions): penalty-free distributions for expenses that meet specific requirements.
+
+In addition, you’re legally permitted to take out a [“loan”](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) from your work retirement account. You borrow your own money from the account with the expectation that you'll repay the principal amount plus interest. You then pay the loan over (usually) no more than five years. Of course, this isn’t actually a loan: a real loan requires a lender and a borrower that are different parties, generally involves a credit check, and carries legal obligations of repayment. The distinction is clear but, as Michael Kitces attested in [this interview](https://www.youtube.com/watch?v=L7n6qyXnqYU&t=254s), some people are so confused about the use of the term “loan” that they think they can effectively invest in a high-yielding bond by taking out a 401(k) loan.
 
 What are the benefits and drawbacks of using a retirement plan “loan”?
 
