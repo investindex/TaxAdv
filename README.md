@@ -84,7 +84,7 @@ This simple _pro rata_ calculation is often how you determine whether your maxim
 
 ### Rollovers
 
-A [rollover](https://www.investopedia.com/terms/i/ira-rollover.asp) is a transfer of money (or assets) between two tax-advantaged accounts. The most common rollovers are between an IRA and an employer-sponsored retirement account like a 401(k) account, or between two IRAs.
+A [rollover](https://www.investopedia.com/terms/i/ira-rollover.asp) is a transfer of money (or assets) between two tax-advantaged accounts. The most common rollovers are between a work retirement account and an IRA, or between two IRAs.
 
 When you leave an employer, it's generally better to roll over the money in your employer plan to an IRA than to remain in your old employer's plan or roll it over to your new employer's plan. An IRA gives you much broader options for investments, has no account-based fees, and lets you choose your custodian (usually a brokerage firm like Fidelity). There are a few potential benefits to choosing your employer's plan instead: it may have better [creditor protection](https://www.investopedia.com/articles/personal-finance/040716/which-retirement-funds-are-protected-creditors.asp) than an IRA (depending on your state) in the event of bankruptcy; in rare cases, it may grant you easier access to investments that wouldn't be available in your IRA (but usually the investment options are worse); and it permits you to take out ["loans"](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans) from the account, as discussed in this footnote.<sup id="fn3">[[3]](#f3)</sup> For nearly everyone, the benefits of an IRA greatly outweigh the potential benefits of an employer-sponsored account.
 
