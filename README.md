@@ -144,7 +144,7 @@ A [donor-advised fund](https://www.nerdwallet.com/article/taxes/donor-advised-fu
 
 Even those who _can_ contribute large amounts should consider whether the tax deduction and tax-exempt investing are enough to overtake the annual fee, which decreases only for amounts greater than $500K. In the absence of a low-fee sponsor, the situations in which a DAF is suitable are rare (although some people surely use one without realizing this). Imagine if the only way to invest in stocks were to buy shares of a fund with an expense ratio of 8% — investing would no longer be feasible. The DAF fees are roughly that bad for typical users. Tactics for optimizing your donations are [discussed in the section on taxes](https://github.com/investindex/Taxes#charity).
 
-[Daffy](https://daffy.org/) is a new organization that offers a DAF for as little as $3/month, with low-cost investing options. They were covered by the WSJ [here](https://www.wsj.com/articles/donating-to-charity-easier-due-to-fintech-11643060691). It will be interesting to see if their model is sustainable.
+[Daffy](https://daffy.org/) is an organization launched in 2021 that offers a DAF for as little as $3/month, with low-cost investing options. They were covered by the WSJ [here](https://www.wsj.com/articles/donating-to-charity-easier-due-to-fintech-11643060691). It will be interesting to see if their model is sustainable.
 
 &nbsp;
 
