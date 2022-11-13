@@ -11,7 +11,7 @@ Click to move to each section:
 * [Health savings account (HSA)](https://github.com/investindex/TaxAdv#health-savings-account-hsa)
 * [Contribution limits](https://github.com/investindex/TaxAdv#contribution-limits)
 * [Rollovers](https://github.com/investindex/TaxAdv#rollovers)
-* [Two five-year rules](https://github.com/investindex/TaxAdv#two-five-year-rules)
+* [Five-year rules for your Roth IRA](https://github.com/investindex/TaxAdv#five-year-rules-for-your-roth-ira)
 * [529 account](https://github.com/investindex/TaxAdv#529-account)
 * [HSA rebels](https://github.com/investindex/TaxAdv#hsa-rebels)
 * [Required minimum distributions (RMDs)](https://github.com/investindex/TaxAdv#required-minimum-distributions-rmds)
@@ -100,11 +100,11 @@ We'll cover the motivations for transferring money between HSAs in a [later sect
 
 &nbsp;
 
-### Two five-year rules
+### Five-year rules for your Roth IRA
 
 Roth IRAs have two somewhat distinct "[five-year rules](https://www.fidelity.com/insights/retirement/roth-5-year-rule)". The first is simple: you can't withdraw earnings from a Roth IRA until five years after your first contribution to a Roth IRA. If you turn 57 in 2022 and make your first Roth IRA contribution in the 2022 tax year, you can't withdraw earnings until Jan 1 2027, even though you reached age 59½ at an earlier date. You can always withdraw your cumulative Roth IRA contributions penalty- and tax-free. Most investors don't have this issue, since they start contributing to a Roth IRA long before their 50s.
 
-The second five-year rule is related. In a Roth conversion, you transfer assets from a traditional account to a Roth account. You can't withdraw these funds penalty-free immediately after converting. If the conversion is done anytime in the 2022 tax year, the five-year delay starts on Jan 1 2022, and those funds could be withdrawn penalty-free on Jan 1 2027. If another conversion is done the following year, that money can't be withdrawn until 2028. If you inherit a Roth IRA, this doesn't alter the five-year timeline.
+The second five-year rule is related. In a Roth conversion, you transfer assets from a traditional account to a Roth account. You can't immediately withdraw the converted funds penalty-free, like you can with direct contributions. If the conversion is done anytime in the 2022 tax year, the five-year delay starts on Jan 1 2022, and those funds could be withdrawn penalty-free on Jan 1 2027. If another conversion is done the following year, that money can't be withdrawn until 2028. If you inherit a Roth IRA, this doesn't alter the five-year timeline.
 
 &nbsp;
 
