@@ -4,6 +4,8 @@ In a taxable brokerage account, every time you receive a distribution or realize
 
 In this context, "earnings" or "investment earnings" refer to the growth in value of investments in these accounts. Withdrawals from the account are called "distributions", and "qualified distributions" are withdrawals that are penalty-free because they comply with the purposes of the account.
 
+Major changes have been made to some rules for tax-advantaged accounts in recent years. Any source you find that was written before [December 2022](https://www.wsj.com/articles/the-401-k-and-ira-changes-to-consider-after-congress-revised-many-retirement-laws-11671822797) may contain outdated information.
+
 &nbsp;
 
 Click to move to each section:
@@ -210,7 +212,7 @@ Footnotes:
 
 &nbsp;
 
-<sup id="f2"> 2 </sup> The only contributions to a 401(k) account (or another employer-sponsored retirement account) that avoid FICA taxes are _employer_ contributions. Employee contributions are subject to FICA taxes. Even if your employer offers a Roth 401(k), employers do not contribute to your Roth 401(k). Employer contributions are made to your traditional account regardless of which plan you contribute to. However, if [a certain bill](https://www.cnbc.com/2022/03/30/house-passes-secure-act-2point0-heres-what-it-means-for-your-retirement-.html) currently in Congress is passed, employers could be given the option of contributing to their employees' Roth 401(k) accounts. [↩](#fn2)
+<sup id="f2"> 2 </sup> The only contributions to a 401(k) account (or another employer-sponsored retirement account) that avoid FICA taxes are _employer_ contributions. Employee contributions are subject to FICA taxes. [Until 2023](https://www.wsj.com/articles/the-401-k-and-ira-changes-to-consider-after-congress-revised-many-retirement-laws-11671822797), employers could not contribute to your Roth 401(k), but they can now make both traditional and Roth contributions. [↩](#fn2)
 
 &nbsp;
 
