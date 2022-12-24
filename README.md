@@ -4,7 +4,7 @@ In a taxable brokerage account, every time you receive a distribution or realize
 
 In this context, "earnings" or "investment earnings" refer to the growth in value of investments in these accounts. Withdrawals from the account are called "distributions", and "qualified distributions" are withdrawals that are penalty-free because they comply with the purposes of the account.
 
-Major changes have been made to some rules for tax-advantaged accounts in recent years. Any source you find that was written before [December 2022](https://www.wsj.com/articles/the-401-k-and-ira-changes-to-consider-after-congress-revised-many-retirement-laws-11671822797) may contain outdated information.
+Major changes have been made to some rules for tax-advantaged accounts in recent years. Any source you find that was written or last updated before [December 2022](https://www.wsj.com/articles/the-401-k-and-ira-changes-to-consider-after-congress-revised-many-retirement-laws-11671822797) may contain outdated information.
 
 &nbsp;
 
