@@ -156,6 +156,8 @@ A DAF can also be used when donating shares with unrealized gains (to maximize t
 
 [Daffy](https://daffy.org/) is an organization launched in 2021 that offers a DAF for as little as $3/month, with low-cost investing options. They were covered by [the WSJ](https://www.wsj.com/articles/donating-to-charity-easier-due-to-fintech-11643060691), and the co-founder and CEO was interviewed on [Meb Faber's podcast](https://www.youtube.com/watch?v=ACT3wNEb4A0). It will be interesting to see if their model is sustainable.
 
+A DAF is better than a private charitable foundation for [almost all charitable purposes](https://whitecoatinvestor.com/donor-advised-fund-daf-vs-private-charitable-foundation/).
+
 &nbsp;
 
 ### Later sections
