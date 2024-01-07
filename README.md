@@ -156,7 +156,7 @@ A DAF can be helpful when someone receives a windfall and would benefit most fro
 
 A DAF can also be used when donating shares with unrealized gains (to maximize the tax deduction) to a charity that can't accept securities. You would donate shares to your DAF, sell the shares, and immediately grant the entire cash amount to the charity, paying very little in fees. __This is the most common way a DAF can be used for real benefit.__
 
-[Daffy](https://daffy.org/) is an organization launched in 2021 that offers a DAF for as little as $3/month, with low-cost investing options. They were covered by [the WSJ](https://www.wsj.com/articles/donating-to-charity-easier-due-to-fintech-11643060691), and the co-founder and CEO was interviewed on [Meb Faber's podcast](https://www.youtube.com/watch?v=ACT3wNEb4A0). It will be interesting to see if their model is sustainable.
+[Daffy](https://daffy.org/) is an organization launched in 2021 that offers a DAF for as little as $3/month, with low-cost investing options. They were covered by [the WSJ](https://www.wsj.com/articles/donating-to-charity-easier-due-to-fintech-11643060691), and the co-founder and CEO was interviewed on [Meb Faber's podcast](https://www.youtube.com/watch?v=ACT3wNEb4A0) and [The White Coat Investor podcast](https://www.youtube.com/watch?v=w8ti2_JYr80). It will be interesting to see if their model is sustainable.
 
 A DAF is better than a private charitable foundation for [almost all charitable purposes](https://whitecoatinvestor.com/donor-advised-fund-daf-vs-private-charitable-foundation/).
 
