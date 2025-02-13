@@ -1,3 +1,5 @@
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+
 # Tax-advantaged accounts
 
 In a taxable brokerage account, every time you receive a distribution or realize a gain or loss, there is a [taxable event](https://www.investopedia.com/terms/t/taxableevent.asp) — an event that affects your tax reporting and usually your tax liability. We'll cover various kinds of tax-advantaged accounts, but they all share one feature: your trades in the account are sheltered from tax. On top of other benefits, capital gains and distributions are never taxed while the money is in the account, and you can adjust investments as often as you want with no concern for tax implications. As [an example](https://github.com/investindex/Taxes#tax-efficient-investing) in a later section illustrates, this is a massive advantage over a taxable account.
